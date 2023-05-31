@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>img/291-2919760_animation-pixel-art-32x32-gifs-hd-png-download.png</file>
+        <file>img/296-2967628_plants-v-zombies-zombie-dead-zombie-plants-vs.png</file>
+        <file>img/file.png</file>
+        <file>img/free-file-icon-1453-thumb.png</file>
+    </qresource>
+</RCC>
